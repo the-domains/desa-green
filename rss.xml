@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Desa Green @ Taman Desa]]></title>
+        <description><![CDATA[Desa Green @ Taman Desa]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 06 Dec 2015 02:24:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Desa Green Construction Progress]]></title>
+            <description><![CDATA[<article><h1>Desa Green Construction Progress</h1><p>Get Ready for City Vibrant Living</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/120de6d1-5de3-44f3-86be-725c072e683b.jpg"></article>]]></description>
+            <link>undefineddesa-green-construction-progress/index.html</link>
+            <guid isPermaLink="false">9f1ef945-316e-48b5-9f83-74157acc4adf</guid>
+            <pubDate>Sun, 06 Dec 2015 02:24:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
