@@ -1,0 +1,28 @@
+name: Desa Green
+favicon: null
+layout_spectrum: 0.18459402536973357
+typography_spectrum: 0.1531679464969784
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8853134447708726
+  lightness: 0.12380919535644352
+  saturation: 0.3447656414937228
+  rhythmicContrast: 0.7806418184190989
+purpose: []
