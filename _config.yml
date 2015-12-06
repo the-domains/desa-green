@@ -1,7 +1,7 @@
 name: Desa Green
 favicon: null
-layout_spectrum: 0.18459402536973357
-typography_spectrum: 0.1531679464969784
+layout_spectrum: 0.09185
+typography_spectrum: 0.27145
 title: Desa Green @ Taman Desa
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.8853134447708726
-  lightness: 0.12380919535644352
+    - '#f0f3f8'
+    - '#a2a6a5'
+    - '#10150f'
+    - '#556a7d'
+    - '#324452'
+  brandStrength: 0.5
+  lightness: 0.6875
   saturation: 0.3447656414937228
-  rhythmicContrast: 0.7806418184190989
+  rhythmicContrast: 0.5
 purpose: []
